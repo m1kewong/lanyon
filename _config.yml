@@ -5,9 +5,9 @@ permalink:           pretty
 # relative_permalinks: true
 
 # Setup
-title:               Write desk
-tagline:             'A place where text meets string'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:               write_desk
+tagline:             'a place where word meets string'
+description:         'language, thought, and world.'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
